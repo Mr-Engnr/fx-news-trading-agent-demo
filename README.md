@@ -73,7 +73,6 @@ All three agents are orchestrated by **LangGraph**, creating a stateful pipeline
 ### Trade Execution Log
 ![Trade execution](screenshots/trade_log.png)
 
-> 📌 **To add your screenshots:** Take 1-2 terminal screenshots showing the agent pipeline running (news fetch → analysis → trade), and save them as `screenshots/terminal_run.png` and `screenshots/trade_log.png`.
 
 ---
 
