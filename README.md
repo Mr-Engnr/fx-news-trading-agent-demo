@@ -2,7 +2,7 @@
 
 > **Autonomous multi-agent FX trading system** that reads breaking news, researches market impact, and executes forex trades — all without human intervention.
 
-**💰 Sold to a client for $1,000 — actively running in production and generating returns.**
+**💰 Sold to a client, actively running in production and generating returns.**
 
 > ⚠️ **Note:** This is a private commercial project. Source code is not publicly available. This repo serves as a portfolio showcase of the architecture and capabilities.
 
